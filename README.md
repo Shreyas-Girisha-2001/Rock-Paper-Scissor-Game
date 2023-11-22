@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock, Paper and Scissors Game
 
 This is a simple Rock, Paper, Scissors game implemented in Python using the Tkinter library for the graphical user interface.
 
